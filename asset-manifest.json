@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.502d0a39.css",
+    "main.js": "/homepage/static/js/main.68198513.js",
+    "static/js/787.5c39024c.chunk.js": "/homepage/static/js/787.5c39024c.chunk.js",
+    "static/media/Okapi.jpg": "/homepage/static/media/Okapi.4fd58315e77ec1584a55.jpg",
+    "index.html": "/homepage/index.html",
+    "main.502d0a39.css.map": "/homepage/static/css/main.502d0a39.css.map",
+    "main.68198513.js.map": "/homepage/static/js/main.68198513.js.map",
+    "787.5c39024c.chunk.js.map": "/homepage/static/js/787.5c39024c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.502d0a39.css",
+    "static/js/main.68198513.js"
+  ]
+}

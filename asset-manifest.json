@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.f4b516bb.css",
-    "main.js": "/homepage/static/js/main.68198513.js",
+    "main.css": "/homepage/static/css/main.c652e06a.css",
+    "main.js": "/homepage/static/js/main.589cd512.js",
     "static/js/787.5c39024c.chunk.js": "/homepage/static/js/787.5c39024c.chunk.js",
     "static/media/Okapi.jpg": "/homepage/static/media/Okapi.4fd58315e77ec1584a55.jpg",
     "index.html": "/homepage/index.html",
-    "main.f4b516bb.css.map": "/homepage/static/css/main.f4b516bb.css.map",
-    "main.68198513.js.map": "/homepage/static/js/main.68198513.js.map",
+    "main.c652e06a.css.map": "/homepage/static/css/main.c652e06a.css.map",
+    "main.589cd512.js.map": "/homepage/static/js/main.589cd512.js.map",
     "787.5c39024c.chunk.js.map": "/homepage/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4b516bb.css",
-    "static/js/main.68198513.js"
+    "static/css/main.c652e06a.css",
+    "static/js/main.589cd512.js"
   ]
 }
